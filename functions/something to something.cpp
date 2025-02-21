@@ -12,7 +12,7 @@ main(){
 }
 int age(int x){
 	
-	if(x >= 18 && x<= 100){
+	if(x >= 18 && x <= 100){
 		return 1;
 	}else{
 		return 0;
